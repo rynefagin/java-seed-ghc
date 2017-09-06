@@ -1,4 +1,4 @@
-package org.ghc.osd.java.springboot.servlet_service.servlet;
+package org.ghc.osd.java.springboot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
